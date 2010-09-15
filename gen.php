@@ -1,4 +1,5 @@
 <?php
+//test
 set_time_limit(0);
 if(isset($_GET['v'])){ $v = true; } else{ $v = false; }
 $file_pre = "galaxys/" . $_GET['file'];
